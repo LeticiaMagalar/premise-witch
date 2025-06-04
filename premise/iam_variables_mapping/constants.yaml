@@ -38,6 +38,8 @@ SUPPORTED_PATHWAYS:
   - SSP5-PkBudg1150
   - SSP5-PkBudg500
   - static
+  - SSP2-ce-narrow
+  - SSP2-ce-slow
 
 LIST_MESSAGE_REGIONS:
   - AFR

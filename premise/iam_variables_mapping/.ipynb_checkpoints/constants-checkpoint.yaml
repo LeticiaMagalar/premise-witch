@@ -37,7 +37,9 @@ SUPPORTED_PATHWAYS:
   - SSP5-PkBudg1150
   - SSP5-PkBudg500
   - static
-
+  - SSP2-ce-narrow
+  - SSP2-ce-slow
+  
 LIST_TRANSF_FUNC:
   - update_biomass
   - update_electricity
